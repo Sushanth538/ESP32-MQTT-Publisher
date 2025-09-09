@@ -19,7 +19,7 @@ The project ESP32C3-MQTT-Hello contains the following files and folders:
 ├── README.md                  # This file
 └── .vscode/                   # VS Code settings for the project (optional)
 
-Features
+Features :
 
 Connects ESP32-C3 to a Wi-Fi network.
 
@@ -31,7 +31,7 @@ Can be subscribed to via MQTT client apps (e.g., MQTT Terminal) to receive messa
 
 Fully explained code for learning purposes.
 
-Prerequisites
+Prerequisites :
 
 ESP32-C3 board
 
@@ -41,7 +41,7 @@ Wi-Fi network credentials
 
 Optional: MQTT client app to subscribe to messages
 
-Usage Instructions
+Usage Instructions :
 
 Clone or download this repository.
 
