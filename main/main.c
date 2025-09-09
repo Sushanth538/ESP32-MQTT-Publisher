@@ -10,11 +10,11 @@
 #include "mqtt_client.h"
 
 // ---------- Replace with your Wi-Fi ----------
-#define WIFI_SSID      "sushanth"
-#define WIFI_PASS      "9380971701"
+#define WIFI_SSID      "YOUR_WIFI_NAME"
+#define WIFI_PASS      "WIFI_PASS"
 
 // ---------- MQTT Broker ----------
-#define BROKER_URI     "mqtt://broker.hivemq.com:1883"  // you can use public broker
+#define BROKER_URI     "MQTT_url"  // you can use public broker
 
 static const char *TAG = "MQTT_EXAMPLE";
 
